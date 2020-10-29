@@ -1,0 +1,12 @@
+// http://codepen.io/ColleenEMc/pen/mepyrg
+
+<html>
+<body>
+  
+	  <script>
+      console.log("Hello World Too"); 
+  </script>
+  
+  <p>What happens if you forget the first set of quotes? <br/> The JavaScript console can help you figure out what is wrong with your code.</p>
+</body>
+</html>
